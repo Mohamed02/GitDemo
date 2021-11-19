@@ -7,3 +7,7 @@ Commit 4 done by IN1
 
 Commit 5 by IN1
 Commit 6 by IN1
+
+#Demo for squashing by skipping other commits
+Commit 7 by IN1
+Commit 8 by IN1
